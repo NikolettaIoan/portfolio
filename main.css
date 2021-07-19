@@ -337,7 +337,7 @@ html {
     display: grid;
     -ms-grid-columns: (1fr)[2];
         grid-template-columns: repeat(2, 1fr);
-    gap: 0.5em;
+    gap: 1.2em;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
@@ -349,7 +349,7 @@ html {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     margin-bottom: 0.5em;
-    height: 12em;
+    height: 13em;
   }
   .projects-tile {
     -ms-flex-item-align: stretch;
